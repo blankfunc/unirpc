@@ -21,6 +21,7 @@ We borrowed [Cap'n Proto](https://github.com/capnproto/capnproto),  [gRPC](https
 + Great flow and message model.
 + A certain degree of encryption protection.
 + Try to allow cross version flexibility as much as possible.
++ Active call, passive call, stream call.
 
 ## Note
 ~~In fact, as one of the original functions of SkiProc design, it became a useless case after being castrated.~~
